@@ -1,4 +1,4 @@
-# Git_learn
+# Git & Github
 
 Curso de Git e Github.
 
